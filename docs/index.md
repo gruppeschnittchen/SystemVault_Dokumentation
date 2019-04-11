@@ -1,10 +1,15 @@
-# Willkommen bei der SystemVault Dokumentation
+# SystemVault Dokumentation
 
 Diese Dokumentation ist für das Projekt SystemVault von der (gruppeschnittchen)[https://github.com/gruppeschnittchen] für den Unterrichtsgegenstand Systemplanung und Projektentwicklung.
 
 ## Struktur
 
-__In Arbeit__
+SystemVault ist ein ERP (Entity-Relationship-Program), welches mehrere Komponente vereinigt.
+
+### Klassendiagramm
+
+![Klassendiagramm](https://raw.githubusercontent.com/gruppeschnittchen/SystemVault_SYP1_Files/master/klassendiagramm_grobentwurf.png "Klassendiagramm")
+Das Klassendiagramm.
 
 ## Steuerelemente
 
